@@ -15,4 +15,4 @@ Trabajaremos con varios lenguajes de programacion este año , el mayor ejemplo e
 
 
 
-No olvidemos que tambien tendremos que aprender ingles
+Dont forget to learning english too
