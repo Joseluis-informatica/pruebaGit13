@@ -10,3 +10,9 @@ El motivo de este repositorio es probar la conectividad de github entre dos cuen
 
 
 Trabajaremos con varios lenguajes de programacion este año , el mayor ejemplo es java.
+
+
+
+
+
+No olvidemos que tambien tendremos que aprender ingles
