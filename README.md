@@ -15,4 +15,4 @@ Trabajaremos con varios lenguajes de programacion este año (diferenciados entre
 
 
 
-No olvidemos que tambien tendremos que aprender ingles
+Dont forget to learning english too
